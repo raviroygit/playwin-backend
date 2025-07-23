@@ -13,6 +13,8 @@
     "helmet": "^8.1.0",
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.16.4",
+    "node-cron": "^4.2.1",
+    "swagger-jsdoc": "^6.2.8",
     "swagger-ui-express": "^5.0.1",
     "zod": "^4.0.5"
   },
@@ -22,6 +24,8 @@
     "@types/helmet": "^0.0.48",
     "@types/jsonwebtoken": "^9.0.10",
     "@types/mongoose": "^5.11.96",
+    "@types/node-cron": "^3.0.11",
+    "@types/swagger-ui-express": "^4.1.8",
     "ts-node-dev": "^2.0.0"
   }
 }
